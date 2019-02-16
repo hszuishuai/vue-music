@@ -5,7 +5,7 @@
 
 ##技术栈
 ###前端
-vue-cli：Vue 脚手架工具，快速初始化项目代码
+>vue-cli：Vue 脚手架工具，快速初始化项目代码
 Vue：用于构建用户界面的 MVVM 框架
 vue-router：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
 vuex：Vue 集中状态管理，实现多组件的相互通信
